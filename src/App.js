@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { Heart, Calendar, Image, MessageCircle, Cake, Sparkles, Music } from 'lucide-react';
+import { Heart, Calendar, Image, MessageCircle, Sparkles} from 'lucide-react';
 import emailjs from '@emailjs/browser';
 
 export default function BirthdayCountdown() {
