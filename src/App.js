@@ -25,7 +25,7 @@ export default function BirthdayCountdown() {
     recipientName: 'Shreyaa'               // Birthday person's name
   };
   // Set your birthday here (Month is 0-indexed: 0=January, 11=December)
-  const birthdayDate = new Date(2026, 1, 18, 11, 42, 0); // March 15, 2026 at midnight
+  const birthdayDate = new Date(2026, 1, 21, 0, 0, 0); // March 15, 2026 at midnight
   
   // Sample photos - replace with your own image URLs
    const photos = [
